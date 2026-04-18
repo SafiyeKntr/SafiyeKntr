@@ -25,4 +25,5 @@ I am passionate about **artificial intelligence, data science, software developm
 👯 I’m looking to collaborate on **AI and software projects**  
 💬 Ask me about **Java, Unity, AI, TEKNOFEST, and software development**  
 📫 How to reach me: **[sfykntr@gmail.com]** and **[www.linkedin.com/in/safiye-kantar-927698368]**
+
 ⚡ Fun fact: **I love combining technology, creativity, and teamwork to build impactful projects**
