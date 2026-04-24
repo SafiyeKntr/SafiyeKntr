@@ -23,7 +23,7 @@ I am passionate about **artificial intelligence, data science, software developm
 🔭 I’m currently working on **AI and simulation-based projects**  
 🌱 I’m currently learning **data science, machine learning, and software engineering**  
 👯 I’m looking to collaborate on **AI and software projects**  
-💬 Ask me about **Java, Unity, AI, TEKNOFEST, and software development**  
+💬 Ask me about **Java, python, C, AI, TEKNOFEST, and software development**  
 📫 How to reach me: **[www.linkedin.com/in/safiye-kantar-927698368]**
 
 ⚡ Fun fact: **I love combining technology, creativity, and teamwork to build impactful projects**
